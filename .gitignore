@@ -1,0 +1,9 @@
+# Ignore temporary files
+tex/*.aux
+tex/*.log
+tex/*.out
+tex/*.bbl
+tex/*.toc
+tex/*.idx
+tex/*.ilg
+tex/*.ind
