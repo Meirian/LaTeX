@@ -3,7 +3,7 @@
 * [Publish Beautiful Documents with LaTeX](README.md)
 * [Welcome](welcome/README.md)
   * [Eligibility and Requirements](welcome/eligibility-and-requirements.md)
-  * [Assessment](welcome/assessment-1.md)
+  * [Expectations and Assessment](welcome/assessment-1.md)
   * [Dates and Times](welcome/dates-and-times.md)
 * [Resources](resources/README.md)
   * [Cheat sheets](resources/untitled.md)

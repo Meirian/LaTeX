@@ -10,7 +10,7 @@ LaTeX is a mark-up language focused on beautiful typesetting, and handles large,
 
 This free training material will provide a gentle introduction to basic LaTeX usage, with a focus on thesis and article typesetting. You will leave with a LaTeX template that you can adapt for your own work.
 
-### Intended learning outcomes
+### Learning objectives
 
 This training aims to enable students to:
 
@@ -21,7 +21,7 @@ This training aims to enable students to:
 * [ ] handle references and input in-text citations and a reference list;
 * [ ] collaborate with other LaTeX users.
 
-### Research methodology
+### Learning outcomes: Research methodology
 
 * Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;
 * Collaborative skills: the ability to work in a team;
