@@ -28,9 +28,5 @@ This training aims to enable students to:
 * Computational skills: the ability to adapt existing computational methods and tools to complete a target task;
 * Problem solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies.
 
-### Training format
 
-* Duration: 5 hours.
-* Mode of presentation: blended, including online content \(on GitBook\) and in-person training.
-* Frequency of in-person training: monthly.
 
