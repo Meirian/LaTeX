@@ -1,6 +1,6 @@
 # Eligibility and Requirements
 
-## What do you need to know before you come?
+### What do you need to know before you come?
 
 **My trainings are accessible and encourage participation. We’d want you to come in curious and willing to meet other researchers!**
 
@@ -14,11 +14,11 @@
   Make sure you are using a [Reliable News Source](https://htmlpreview.github.io/?https://github.com/Meirian/croc/master/index.html).
 {% endhint %}
 
-## Supplementary materials
+### Supplementary materials
 
 Students participating this course are encouraged \(but not required\) to supplement their learning of Referencing with the materials and courses offered by the University's Library Services:
 
-## Inclusivity and accessibility
+### Inclusivity and accessibility
 
 The University of Melbourne is committed to providing students with reasonable adjustments to participation under the Disability Standards for Education \(2005\).
 
