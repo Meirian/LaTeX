@@ -1,6 +1,6 @@
 # Welcome
 
-## Training overview
+### Training overview
 
 * Have you ever tried to write a large document, only to find your conventional word processor can’t keep up? 
 * Are you looking for a better way to handle your references? 

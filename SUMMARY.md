@@ -8,6 +8,7 @@
   * [Dates and Times](welcome/dates-and-times.md)
 * [Resources](resources/README.md)
   * [Cheat sheets](resources/untitled.md)
+  * [Reading](resources/reading.md)
   * [Reference Management](http://unimelb.libguides.com/managing_references)
   * [Slides](resources/slides.md)
   * [Videos](resources/videos.md)
@@ -15,4 +16,6 @@
     * [COVID-19 Updates](https://www.unimelb.edu.au/coronavirus)
     * [Free Training and Events](http://rescomunimelb.eventbrite.com)
     * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)
+* [Pitch](pitch/README.md)
+  * [Getting started](pitch/getting-started.md)
 
