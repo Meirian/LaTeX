@@ -1,8 +1,8 @@
 # Eligibility and Requirements
 
-**My trainings are accessible and encourage participation. We’d want you to come in curious and willing to meet other researchers!**
+## What do you need to know before you come?
 
-All participants are expected to:
+**My trainings are accessible and encourage participation. We’d want you to come in curious and willing to meet other researchers!**
 
 * Be prepared: be ready and able to be involve yourself in learning.
 * Engage: actively participate in the community and course materials.
@@ -13,16 +13,6 @@ All participants are expected to:
 \*Do not trust everything you see online.  
   Make sure you are using a [Reliable News Source](https://htmlpreview.github.io/?https://github.com/Meirian/croc/master/index.html).
 {% endhint %}
-
-## Prerequisites
-
-Students participating in this course are expected to satisfy, at a minimum, the criteria for the Australian Qualifications Framework \(AQF\) level 9. Graduates at this level will have specialised knowledge and skills for research, and/or professional practice and/or further learning. They will have expert, specialised cognitive and technical skills in a body of knowledge or practice to independently:
-
-* Analyse critically, reflect on and synthesise complex information, problems, concepts and theories.
-* Research and apply established theories to a body of knowledge or practice.
-* Interpret and transmit knowledge, skills and ideas to specialist and non-specialist audiences.
-
-Graduates at this level will apply knowledge and skills to demonstrate autonomy, expert judgement, adaptability and responsibility as a practitioner or learner.
 
 ## Corequisites
 
