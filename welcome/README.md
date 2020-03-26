@@ -8,8 +8,6 @@
 
 LaTeX is a mark-up language focused on beautiful typesetting, and handles large, complex documents with ease. It is a standard tool in scientific and technical research fields, and is well-suited to the needs of people in the humanities.
 
-This free training material will provide a gentle introduction to basic LaTeX usage, with a focus on thesis and article typesetting. You will leave with a LaTeX template that you can adapt for your own work.
-
 ### Learning objectives
 
 This training aims to enable students to:

@@ -26,7 +26,7 @@ A full introductory workshop, which explains the key concepts required to typese
 
 ### The meet-up
 
-An opportunity to ask your burning documentation questions, learn some tips and tricks, see some exemplary documents and get to know the community that is actively using LaTeX to document their research. Also known as a data lab or hacky hour.
+An opportunity to ask your burning documentation questions, learn some tips and tricks, see some exemplary documents and get to know the community that is actively using LaTeX to document their research. Also known as a data lab, hacky hour or drop-in.
 
 * Duration: one to two hours.
 * Mode: typically in-person.
