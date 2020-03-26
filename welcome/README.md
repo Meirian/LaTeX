@@ -21,7 +21,7 @@ This training aims to enable students to:
 * [ ] handle references and input in-text citations and a reference list;
 * [ ] collaborate with other LaTeX users.
 
-### Generic skills
+### Research methodology
 
 * Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;
 * Collaborative skills: the ability to work in a team;
