@@ -1,6 +1,6 @@
 # Trainer
 
-![Meirian Lovelace-Tozer](../.gitbook/assets/meirian_old_quad.jpg)
+![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian_old_quad.jpg)
 
 Hi, I'm Meirian.
 
