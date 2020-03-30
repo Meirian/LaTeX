@@ -2,6 +2,8 @@
 
 ### What do you need to know before you come?
 
+#### No prior knowledge of LaTeX is required.
+
 #### Our trainings are accessible and encourage participation. We want you to come in curious and willing to meet other researchers!
 
 * Be prepared: be ready and able to be involve yourself in learning.
