@@ -2,6 +2,7 @@
 
 * [Publish Beautiful Documents with LaTeX](README.md)
 * [Welcome](welcome/README.md)
+  * [Trainer](welcome/trainer.md)
   * [Training Format](welcome/training-format.md)
   * [Eligibility and Requirements](welcome/eligibility-and-requirements.md)
   * [Expectations](welcome/assessment-1.md)

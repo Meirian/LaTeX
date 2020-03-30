@@ -1,5 +1,7 @@
 # Training Format
 
+The material in this training is presented in a variety of different formats, including videos, structured readings and activities.
+
 ### The current format
 
 Whilst we are practicing social distancing, we will be hosting Zoom sessions. These sessions will include a pitch, followed by a meet-up \(see below\).
