@@ -1,31 +1,28 @@
-# Trainer
+# About this Training
 
-![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian_old_quad.jpg)
+### Training overview
 
-Hi, I'm Meirian.
+* Have you ever tried to write a large document, only to find your conventional word processor can’t keep up? 
+* Are you looking for a better way to handle your references? 
+* Do you have special typesetting requirements, such as heavy use of mathematical notation, and you need it to look professional?
 
-I am a teacher, consultant and senior community co-ordinator at the University of Melbourne. I offer training in LaTeX and Ubuntu at Research Computing Services. My other areas of interest include data analysis, operations research and statistics, which I also have the pleasure of teaching at the University.
+LaTeX is a mark-up language focused on beautiful typesetting, and handles large, complex documents with ease. It is a standard tool in scientific and technical research fields, and is well-suited to the needs of people in the humanities.
 
-I love teaching and am enthusiastic about enabling others to benefit from the skills that I teach! Get in touch with me for more information about LaTeX training, events, and community support:
+### Learning objectives
 
-{% tabs %}
-{% tab title="Twitter" %}
-Follow or tweet at me on [@MeirianLT](www.twitter.com/MeirianLT) and [@ResCom\_unimelb](https://twitter.com/ResCom_unimelb).
-{% endtab %}
+This training aims to enable students to:
 
-{% tab title="YouTube" %}
-Check out some of our videos and subscribe to the [ResCom Team](https://www.youtube.com/channel/UCGWU-ESE1j2vCJTACZHHLGQ)!
-{% endtab %}
+* [ ] prepare and structure large, complex documents;
+* [ ] think critically about layout for articles, reports and theses;
+* [ ] generate figures, lists and tables in a document;
+* [ ] submit articles for publication in the appropriate format;
+* [ ] handle references and input in-text citations and a reference list;
+* [ ] collaborate with other LaTeX users.
 
-{% tab title="Instagram" %}
-Check out our photos and gifs on the [ResCom\_unimelb Instagram](https://www.instagram.com/rescom_unimelb).
-{% endtab %}
+### Learning outcomes: Research methodology
 
-{% tab title="Email" %}
-Email me at: mlovelace\(at\)unimelb.edu.au  
-\(Replace the "\(at\)" with the "@" symbol\).
-{% endtab %}
-{% endtabs %}
-
-I look forward to meeting you at our next training!
+* Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;
+* Collaborative skills: the ability to work in a team;
+* Computational skills: the ability to adapt existing computational methods and tools to complete a target task;
+* Problem solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies.
 
