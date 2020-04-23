@@ -1,4 +1,4 @@
-# Outline
+# Outline and content
 
 Determine whether LaTeX is for you! During this free workshop you will typeset an article in LaTeX, learn how to insert graphics and work as a team to compete in a challenge.
 
@@ -12,13 +12,11 @@ To participate in the workshop, you will need:
 
 Prior to the workshop, please read our [Training Welcome Page](https://gitlab.unimelb.edu.au/rescom-training/latex/welcome). This page contains a training overview, eligibility & requirements, expectations, support, training format and dates & times.
 
-### 
+## Workshop content
 
-###  Workshop content
+The Getting Started with LaTeX slides can be accessed here:
 
-The _Getting Started with LaTeX_ slides can be accessed [here](/rescom-training/latex/getting-started/-/blob/master/assets/slides.pdf) \(you can also view the original LaTeX document [here](https://www.overleaf.com/read/gbwdjvqtgyxv)\).
+{% file src="../.gitbook/assets/latex\_workshop \(1\).pdf" caption="Getting Started with LaTeX" %}
 
-During the workshop, activities will be run using Breakout rooms in Zoom. These are referred to as challenges, and can be viewed [here](/rescom-training/latex/getting-started/-/blob/master/challenges.md).
-
-For more resources \(including cheat sheets, websites and videos\), please view [the Resources project on GitLab](https://gitlab.unimelb.edu.au/rescom-training/latex/resources).
+You can also view the original LaTeX document [here](https://www.overleaf.com/read/gbwdjvqtgyxv).
 

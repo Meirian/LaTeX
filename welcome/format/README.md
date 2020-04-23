@@ -1,4 +1,4 @@
-# Training Format
+# Training format
 
 ### The current format
 

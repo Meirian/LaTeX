@@ -1,4 +1,4 @@
-# Eligibility and Requirements
+# Eligibility and requirements
 
 ### What do you need to know before you come?
 

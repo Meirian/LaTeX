@@ -6,5 +6,5 @@ The following cheat sheet was produced by Boyce, B. & Lovelace-Tozer, M.:
 
 The following Overleaf layout diagram was produced by Lovelace-Tozer, M. and illustrated by Walsh, E.:
 
-{% file src="../.gitbook/assets/overleaf\_layout\_cheat\_sheet \(1\).pdf" caption="Overleaf Layout Diagram" %}
+{% file src="../.gitbook/assets/overleaf\_layout\_cheat\_sheet.pdf" caption="Overleaf Layout Diagram" %}
 

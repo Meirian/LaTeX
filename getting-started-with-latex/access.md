@@ -8,7 +8,9 @@ LaTeX can be used entirely online, using Overleaf: [http://www.overleaf.com](htt
 
 The University of Melbourne is providing free Overleaf Professional accounts for all students, faculty and staff who would like to use a collaborative, online LaTeX editor for their projects. Overleaf Professional accounts provide real-time track changes, unlimited collaborators, and full document history. Upgrade to a pro Overleaf account by using a unimelb email address to create your Overleaf account. For more information see: [https://www.overleaf.com/edu/unimelb](https://www.overleaf.com/edu/unimelb).
 
-I recommend viewing this guide to familiarise yourself the layout of Overleaf: [Overleaf Layout Guide](/rescom-training/latex/getting-started/-/blob/master/assets/overleaf.pdf).
+I recommend viewing this guide to familiarise yourself the layout of Overleaf:
+
+{% file src="../.gitbook/assets/overleaf\_layout\_cheat\_sheet.pdf" caption="Overleaf Layout Diagram" %}
 
 ##  Offline
 
