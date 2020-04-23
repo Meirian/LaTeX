@@ -11,16 +11,18 @@
 * [Eligibility and Requirements](welcome/eligibility/README.md)
   * [Expectations](welcome/eligibility/assessment-1.md)
   * [Support](welcome/eligibility/support.md)
-* [Resources](resources/README.md)
-  * [Cheat sheets](resources/untitled.md)
-  * [Reading](resources/reading.md)
-  * [Videos](resources/videos.md)
-  * [Websites](resources/websites/README.md)
-    * [COVID-19 Updates](https://www.unimelb.edu.au/coronavirus)
-    * [Overleaf](http://www.overleaf.com)
-    * [Reference Management](http://unimelb.libguides.com/managing_references)
-    * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)
-* [Pitch](pitch/README.md)
-  * [Getting started](pitch/getting-started.md)
-  * [Slides](pitch/slides.md)
+
+## Getting Started with LaTeX
+
+* [Outline](getting-started-with-latex/outline.md)
+* [Accessing LaTeX](getting-started-with-latex/access.md)
+* [Getting Started with LaTeX](getting-started-with-latex/content.md)
+
+## Resources
+
+* [Cheat sheets](resources/cheat.md)
+* [Reading](resources/reading.md)
+* [Slides](resources/slides.md)
+* [Videos](resources/videos.md)
+* [Websites](resources/websites.md)
 
