@@ -25,7 +25,7 @@ Make sure you are using a [Reliable News Source](https://htmlpreview.github.io/?
 
 {% hint style="info" %}
 \*The University of Melbourne is providing free Overleaf Professional accounts for all students, faculty and staff who would like to use a collaborative, online LaTeX editor for their projects.   
-For more information, visit this link: [https://www.overleaf.com/edu/unimelb](https://www.overleaf.com/edu/unimelb)
+For more information, visit this link: [https://www.overleaf.com/edu/unimelb](https://www.overleaf.com/edu/unimelb).
 {% endhint %}
 
 ### Supplementary materials

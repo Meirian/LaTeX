@@ -1,20 +1,22 @@
 # Table of contents
 
-* [Reporting your Research: Typesetting and Publication](README.md)
-* [Welcome](welcome/README.md)
-  * [About this Training](welcome/trainer.md)
-  * [Training Format](welcome/training-format/README.md)
-    * [Dates and Times](welcome/training-format/dates-and-times.md)
-  * [Eligibility and Requirements](welcome/eligibility-and-requirements/README.md)
-    * [Expectations](welcome/eligibility-and-requirements/assessment-1.md)
-    * [Support](welcome/eligibility-and-requirements/support.md)
+* [Research Computing Services](README.md)
+
+## Welcome
+
+* [Training overview](welcome/overview/README.md)
+  * [About the trainer](welcome/overview/trainer.md)
+* [Training Format](welcome/format/README.md)
+  * [Dates and Times](welcome/format/dates.md)
+* [Eligibility and Requirements](welcome/eligibility/README.md)
+  * [Expectations](welcome/eligibility/assessment-1.md)
+  * [Support](welcome/eligibility/support.md)
 * [Resources](resources/README.md)
   * [Cheat sheets](resources/untitled.md)
   * [Reading](resources/reading.md)
   * [Videos](resources/videos.md)
   * [Websites](resources/websites/README.md)
     * [COVID-19 Updates](https://www.unimelb.edu.au/coronavirus)
-    * [Free Training and Events](http://rescomunimelb.eventbrite.com)
     * [Overleaf](http://www.overleaf.com)
     * [Reference Management](http://unimelb.libguides.com/managing_references)
     * [Research Computing Services](https://research.unimelb.edu.au/infrastructure/research-computing-services)

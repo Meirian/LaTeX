@@ -1,10 +1,12 @@
-# Welcome
+# About the trainer
 
-![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../.gitbook/assets/meirian_old_quad.jpg)
+
+
+![Meirian Lovelace-Tozer. Photo credit: Eric Jong. \(2019\).](../../.gitbook/assets/meirian_old_quad.jpg)
 
 Hi, I'm Meirian.
 
-I am a teacher, consultant and senior community co-ordinator at the University of Melbourne. I offer training in LaTeX and Ubuntu at Research Computing Services. My other areas of interest include data analysis, operations research and statistics, which I also have the pleasure of teaching at the University. I love teaching and am enthusiastic about enabling others to benefit from the skills that I teach! 
+I am a teacher, consultant, researcher and senior community co-ordinator at the University of Melbourne. I offer training in LaTeX and Ubuntu at Research Computing Services. My other areas of interest include data analysis, operations research and statistics, which I also have the pleasure of teaching at the University. I love teaching and am enthusiastic about enabling others to benefit from the skills that I teach! 
 
 Get in touch with me for more information about LaTeX training, events, and community support:
 
@@ -26,8 +28,6 @@ Email me at: mlovelace\(at\)unimelb.edu.au
 \(Replace the "\(at\)" with the "@" symbol\).
 {% endtab %}
 {% endtabs %}
-
-
 
 I look forward to meeting you at our next training!
 
