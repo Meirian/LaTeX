@@ -6,7 +6,7 @@
 
 LaTeX is a mark-up language focused on beautiful typesetting, and handles large, complex documents with ease. It is a standard tool in scientific and technical research fields, and is well-suited to the needs of people in the humanities.
 
-###  Learning objectives
+##  Learning objectives
 
 This training aims to enable students to:
 
@@ -17,7 +17,7 @@ This training aims to enable students to:
 *   handle references and input in-text citations and a reference list;
 *   collaborate with other LaTeX users.
 
-###  Learning outcomes
+##  Learning outcomes
 
 * Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;
 * Collaborative skills: the ability to work in a team;

@@ -1,6 +1,6 @@
 # Eligibility and requirements
 
-### What do you need to know before you come?
+## What do you need to know before you come?
 
 #### No prior knowledge of LaTeX is required.
 
@@ -16,7 +16,7 @@
 Make sure you are using a [Reliable News Source](https://htmlpreview.github.io/?https://github.com/Meirian/croc/master/index.html).
 {% endhint %}
 
-#### Please bring with you:
+### Please bring with you:
 
 * [ ] a laptop with internet access and a web browser;
 * [ ] a laptop charger**;**
@@ -28,7 +28,7 @@ Make sure you are using a [Reliable News Source](https://htmlpreview.github.io/?
 For more information, visit this link: [https://www.overleaf.com/edu/unimelb](https://www.overleaf.com/edu/unimelb).
 {% endhint %}
 
-### Supplementary materials
+## Supplementary materials
 
 Students participating this course are encouraged \(but not required\) to supplement their learning of Referencing with the materials and courses offered by the University's Library Services:
 

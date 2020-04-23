@@ -10,7 +10,7 @@ For sensitive or personal matters that you do not wish to post in the discussion
 \*You can become a ResLead too! For more information and to express interest, please contact your Trainer.
 {% endhint %}
 
-### Support for researchers and students at the University
+## Support for researchers and students at the University
 
 For further support as a student and/or researcher at the University of Melbourne, please visit: [https://students.unimelb.edu.au/student-support](https://students.unimelb.edu.au/student-support). Here, you can find information on:
 
@@ -23,7 +23,7 @@ For further support as a student and/or researcher at the University of Melbourn
 * diversity and inclusion;
 * and general advice and help \(Stop 1\).
 
-### Inclusivity and accessibility
+## Inclusivity and accessibility
 
 The University of Melbourne is committed to providing students with reasonable adjustments to participation under the Disability Standards for Education \(2005\).
 
