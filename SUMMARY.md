@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Publish Beautiful Documents with LaTeX](README.md)
+* [Reporting your Research: Typesetting and Publication](README.md)
 * [Welcome](welcome/README.md)
   * [About this Training](welcome/trainer.md)
   * [Training Format](welcome/training-format/README.md)

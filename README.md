@@ -1,4 +1,4 @@
-# Publish Beautiful Documents with LaTeX
+# Reporting your Research: Typesetting and Publication
 
 **For information and updates from the** _**University of Melbourne**_ **regarding COVID-19, please refer to:**
 
