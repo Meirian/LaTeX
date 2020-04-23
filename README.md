@@ -1,7 +1,7 @@
 ---
 description: >-
-  Please note this resource is currently under maintenance, and materials
-  presented here are not yet complete.
+  Please note this resource is currently under maintenance, and materials are
+  not yet complete.
 ---
 
 # Research Computing Services
