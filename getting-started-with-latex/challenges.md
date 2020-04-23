@@ -1,6 +1,6 @@
 # Challenges
 
-During the workshop, activities will be run using Breakout rooms in Zoom. These are referred to as challenges:
+During the workshop, activities will be run using Breakout rooms in Zoom. These are referred to as challenges.
 
 ## Who are you?
 
