@@ -20,6 +20,10 @@
 * [Challenges](module-1/challenges.md)
 * [Featured articles](module-1/featured.md)
 
+## Module 2: Lists and Tables
+
+* [Outline](module-2-lists-and-tables/outline.md)
+
 ## Resources
 
 * [Cheat sheets](resources/cheat.md)
