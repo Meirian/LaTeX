@@ -26,8 +26,9 @@
 
 ## Resources
 
-* [Cheat sheets](resources/cheat.md)
-* [Slides](resources/slides.md)
+* [Downloads](resources/downloads/README.md)
+  * [Cheat sheets](resources/downloads/cheat.md)
+  * [Slides](resources/downloads/slides.md)
 * [Videos](resources/videos.md)
 * [Websites](resources/websites/README.md)
   * [Reading](resources/websites/reading.md)
