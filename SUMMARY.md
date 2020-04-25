@@ -12,13 +12,13 @@
   * [Expectations](welcome/eligibility/assessment-1.md)
   * [Support](welcome/eligibility/support.md)
 
-## Getting Started with LaTeX
+## Module 1: Getting Started with LaTeX <a id="module-1"></a>
 
-* [Outline](getting-started-with-latex/outline.md)
-* [Accessing LaTeX](getting-started-with-latex/access/README.md)
-  * [Overleaf](getting-started-with-latex/access/overleaf.md)
-* [Challenges](getting-started-with-latex/challenges.md)
-* [Featured articles](getting-started-with-latex/featured.md)
+* [Outline](module-1/outline.md)
+* [Accessing LaTeX](module-1/access/README.md)
+  * [Overleaf](module-1/access/overleaf.md)
+* [Challenges](module-1/challenges.md)
+* [Featured articles](module-1/featured.md)
 
 ## Resources
 

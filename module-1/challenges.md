@@ -2,20 +2,20 @@
 
 During the workshop, group activities will be run using Breakout rooms in Zoom. These are referred to as challenges.
 
-## Who are you?
+## 1.1 Who are you?
 
 * Introduce yourselves.
 * Find one thing you all have in common.
 * Come up with a team name!
 
-##  Getting started
+##  1.2 Getting started
 
 * Select one member of your team to create an Overleaf document and share this with the group by pasting the edit link in the chat.
 * Set your team name as the `\author{ }`.
 * Cats vs Dogs: Are you team cats or team dogs?
 * Decide which side you're on and give your `article` an appropriate `\title{ }`.
 
-##  Figures
+##  1.3 Figures
 
 * Insert an image of your animal using the `figure` environment.
 * Give your image a clever and creative caption!
