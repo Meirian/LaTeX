@@ -1,4 +1,4 @@
-# Outline and content
+# Outline
 
 Determine whether LaTeX is for you! During this free workshop you will typeset an article in LaTeX, learn how to insert graphics and work as a team to compete in a challenge.
 
