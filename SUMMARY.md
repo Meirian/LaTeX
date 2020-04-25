@@ -15,7 +15,8 @@
 ## Getting Started with LaTeX
 
 * [Outline](getting-started-with-latex/outline.md)
-* [Accessing LaTeX](getting-started-with-latex/access.md)
+* [Accessing LaTeX](getting-started-with-latex/access/README.md)
+  * [Overleaf](getting-started-with-latex/access/overleaf.md)
 * [Challenges](getting-started-with-latex/challenges.md)
 * [Featured articles](getting-started-with-latex/featured.md)
 
