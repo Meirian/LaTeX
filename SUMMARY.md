@@ -10,7 +10,7 @@
   * [Dates and times](welcome/format/dates.md)
 * [Eligibility and requirements](welcome/eligibility/README.md)
   * [Expectations](welcome/eligibility/assessment-1.md)
-  * [Support](welcome/eligibility/support.md)
+* [Support](welcome/support.md)
 
 ## Module 1: Getting Started with LaTeX <a id="module-1"></a>
 

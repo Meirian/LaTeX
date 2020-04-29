@@ -14,14 +14,21 @@ For sensitive or personal matters that you do not wish to post in the discussion
 
 For further support as a student and/or researcher at the University of Melbourne, please visit: [https://students.unimelb.edu.au/student-support](https://students.unimelb.edu.au/student-support). Here, you can find information on:
 
-* health and wellbeing;
-* scholarships and financial support;
-* international student support;
-* accommodation;
-* student equity and disability support;
-* support and advice for indigenous students \(Murrup Barak\);
-* diversity and inclusion;
-* and general advice and help \(Stop 1\).
+* [health and wellbeing;](https://students.unimelb.edu.au/health)
+* [scholarships and financial support;](https://students.unimelb.edu.au/student-support/scholarships-and-financial-support)
+* [international student support;](https://students.unimelb.edu.au/student-support/international-student-support)
+* [accommodation, housing advice and support;](https://students.unimelb.edu.au/student-support/housing)
+* [childcare services;](https://students.unimelb.edu.au/student-support/childcare)
+* [student equity and disability support;](https://services.unimelb.edu.au/student-equity/home)
+* [support and advice for indigenous students \(Murrup Barak\);](https://murrupbarak.unimelb.edu.au/home)
+* [diversity and inclusion;](https://students.unimelb.edu.au/student-support/diversity-and-inclusion)
+* [academic and professional skills support;](https://services.unimelb.edu.au/academicskills)
+* [career support;](https://students.unimelb.edu.au/careers)
+* [and general advice and help \(Stop 1\)](https://students.unimelb.edu.au/stop1).
+
+Other websites you should check for support resources include the [Library](https://library.unimelb.edu.au/)
+
+
 
 ## Inclusivity and accessibility
 
