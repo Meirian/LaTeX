@@ -26,10 +26,6 @@ For further support as a student and/or researcher at the University of Melbourn
 * [career support;](https://students.unimelb.edu.au/careers)
 * [and general advice and help \(Stop 1\)](https://students.unimelb.edu.au/stop1).
 
-Other websites you should check for support resources include the [Library](https://library.unimelb.edu.au/)
-
-
-
 ## Inclusivity and accessibility
 
 The University of Melbourne is committed to providing students with reasonable adjustments to participation under the Disability Standards for Education \(2005\).
