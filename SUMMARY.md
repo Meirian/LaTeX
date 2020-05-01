@@ -12,7 +12,7 @@
   * [Expectations](welcome/eligibility/assessment-1.md)
 * [Support](welcome/support.md)
 
-## Module 1: Getting Started with LaTeX <a id="module-1"></a>
+## Module 1: Getting Started <a id="module-1"></a>
 
 * [Outline](module-1/outline.md)
 * [Accessing LaTeX](module-1/access/README.md)
@@ -24,9 +24,13 @@
 
 * [Outline](module-2/outline.md)
 
-## Module 3: Technical formulas
+## Module 3: Technical formulas <a id="module-3"></a>
 
-* [Outline](module-3-technical-formulas/outline.md)
+* [Outline](module-3/outline.md)
+
+## Module 4: Referencing <a id="module-4"></a>
+
+* [Outline](module-4/outline.md)
 
 ## Resources
 
