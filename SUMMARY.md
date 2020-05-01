@@ -20,9 +20,13 @@
 * [Challenges](module-1/challenges.md)
 * [Featured articles](module-1/featured.md)
 
-## Module 2: Lists and Tables
+## Module 2: Lists and Tables <a id="module-2"></a>
 
-* [Outline](module-2-lists-and-tables/outline.md)
+* [Outline](module-2/outline.md)
+
+## Module 3: Technical formulas
+
+* [Outline](module-3-technical-formulas/outline.md)
 
 ## Resources
 
