@@ -23,6 +23,13 @@
 ## Module 2: Lists and Tables <a id="module-2"></a>
 
 * [Outline](module-2/outline.md)
+* [Environments](module-2/enviro.md)
+* [Lists](module-2/lists/README.md)
+  * [Nesting](module-2/lists/nesting.md)
+* [Tables](module-2/tables/README.md)
+  * [Table vs tabular](module-2/tables/table-tabular.md)
+  * [The easier way](module-2/tables/easy-tables.md)
+* [Challenges](module-2/challenges.md)
 
 ## Module 3: Technical formulas <a id="module-3"></a>
 

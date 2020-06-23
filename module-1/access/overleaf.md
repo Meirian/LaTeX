@@ -6,5 +6,5 @@ The University of Melbourne is providing free Overleaf Professional accounts for
 
 I recommend viewing this guide to familiarise yourself with the layout of Overleaf:
 
-{% file src="../../.gitbook/assets/overleaf\_layout\_cheat\_sheet.pdf" caption="Overleaf Layout Diagram" %}
+{% file src="../../.gitbook/assets/overleaf\_layout\_cheat\_sheet \(1\).pdf" caption="Overleaf Layout Diagram" %}
 

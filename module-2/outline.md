@@ -10,5 +10,16 @@ To participate in the workshop, you will need:
 * Zoom installed on your computer - you can download Zoom for free from [https://zoom.us/download](https://zoom.us/download);
 * an Overleaf account - you can create one for free here: [http://www.overleaf.com](http://www.overleaf.com).
 
+Objective:
+
+* Understand the itemize, enumerate and tabular environments in LaTeX.
+
+Learning outcomes:
+
+* I can describe the difference between an ordered and unordered list.
+* I can create a table in LaTeX using the tool shown.
+
+
+
 Prior to the workshop, please read our Welcome Page. This page contains a training overview, eligibility & requirements, expectations, support, training format and dates & times.
 
