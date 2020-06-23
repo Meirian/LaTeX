@@ -2,7 +2,7 @@
 
 During the workshop, group activities will be run using Breakout rooms in Zoom. These are referred to as challenges.
 
-##  2.1 Getting started
+##  4.1 Getting started
 
 * Introduce yourselves.
 * Each team member should answer the question: if you were a tree, what sort of tree would you be? Here are some options if you need inspiration:
