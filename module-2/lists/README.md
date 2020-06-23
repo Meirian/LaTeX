@@ -17,7 +17,7 @@ The command `\item` is used to signal each item \(or bullet point\) on our list.
 
 ![Unordered list as it appears in LaTeX using the above code. Credit: Meirian Lovelace-Tozer. \(2020\).](../../.gitbook/assets/burgerlist.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Notice that American English is used for the spelling of LaTeX commands.
 {% endhint %}
 
