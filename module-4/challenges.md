@@ -22,7 +22,7 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 * [ ] Each member of your team should add one sentence explaining which tree they selected, and include an in-text citation using the `\cite{ }` command.
 
 {% hint style="success" %}
-Bonus challenge: 
+Bonus challenges: 
 
 * Find and add `article`, `book` and `misc` entry types.
 * Change the referencing style to APA, Harvard, or something else.
