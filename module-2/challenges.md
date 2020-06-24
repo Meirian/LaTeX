@@ -10,9 +10,10 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 * Set your team name as the `\author{ }`.
 
 {% hint style="success" %}
-Bonus challenge:
+Bonus challenges:
 
 * Find one thing everyone in your team has in common!
+* If you finish early, start reading through the documentation on [Environments](enviro.md), [Lists](lists/) and [Tables](tables/).
 {% endhint %}
 
 ##  2.2 Lists
@@ -36,8 +37,36 @@ Bonus challenges:
 {% hint style="success" %}
 Bonus challenges:
 
-* Figure out how you can set the width of your table's columns \(you may need to Google this one!\)
-* If you have extra time, expand your table to be 4x4. You can find inspiration in Google images if you're stuck.
-* Create a free space and shade this cell in a different colour. You will need to use the `xcolor` package: `\usepackage[table]{xcolor}`.
+* Figure out how you can set the width of your table's columns \(you may need to Google this one!\) Refer to the Hint below if you need help.
+* If you have extra time, expand your table to be 4x4. You can also find inspiration in Google images.
+* Create a 'free space' and shade this cell in a different colour. You will need to use the `xcolor` package: `\usepackage[table]{xcolor}`.
 {% endhint %}
+
+{% tabs %}
+{% tab title="Example bingo table" %}
+![](../.gitbook/assets/bingo.png)
+{% endtab %}
+
+{% tab title="Hint" %}
+{% hint style="info" %}
+Overleaf has a comprehensive guide on tables.   
+In particular, you may find the following website useful:   
+[https://www.overleaf.com/learn/latex/tables\#Tables\_with\_fixed\_length](https://www.overleaf.com/learn/latex/tables#Tables_with_fixed_length)
+{% endhint %}
+{% endtab %}
+
+{% tab title="Solution" %}
+```
+\begin{tabular}{|m{3cm}|m{3cm}|m{3cm}|}
+    \hline
+    Share a file on Overleaf & Create a table & Attend a LaTeX workshop \\
+    \hline
+    Tweet about \#LaTeX      & Free space     & Download TeX on your PC \\
+    \hline
+    Use BibTeX               & Create a list  & Search for something on Google \\
+    \hline
+\end{tabular}
+```
+{% endtab %}
+{% endtabs %}
 
