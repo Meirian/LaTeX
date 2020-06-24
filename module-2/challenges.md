@@ -10,9 +10,8 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 * Set your team name as the `\author{ }`.
 
 {% hint style="success" %}
-Bonus challenges:
+Bonus challenge:
 
-* Find one thing everyone in your team has in common!
 * If you finish early, start reading through the documentation on [Environments](enviro.md), [Lists](lists/) and [Tables](tables/).
 {% endhint %}
 
