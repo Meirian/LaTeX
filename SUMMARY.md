@@ -17,19 +17,21 @@
 * [Outline](module-1/outline.md)
 * [Accessing LaTeX](module-1/access/README.md)
   * [Overleaf](module-1/access/overleaf.md)
-* [Challenges](module-1/challenges.md)
-* [Featured articles](module-1/featured.md)
+* [Challenges](module-1/challenges/README.md)
+  * [Featured articles](module-1/challenges/featured.md)
 
 ## Module 2: Lists and Tables <a id="module-2"></a>
 
-* [Outline](module-2/outline.md)
-* [Environments](module-2/enviro.md)
-* [Lists](module-2/lists/README.md)
-  * [Nesting](module-2/lists/nesting.md)
-* [Tables](module-2/tables/README.md)
-  * [Table vs tabular](module-2/tables/table-tabular.md)
-  * [The easier way](module-2/tables/easy-tables.md)
-* [Challenges](module-2/challenges.md)
+* [Outline](module-2/outline/README.md)
+  * [Slides](module-2/outline/slides.md)
+* [Environments](module-2/enviro/README.md)
+  * [Tables](module-2/enviro/tables/README.md)
+    * [Table vs tabular](module-2/enviro/tables/table-tabular.md)
+    * [The easier way](module-2/enviro/tables/easy-tables.md)
+  * [Lists](module-2/enviro/lists/README.md)
+    * [Nesting](module-2/enviro/lists/nesting.md)
+* [Challenges](module-2/challenges/README.md)
+  * [Featured articles](module-2/challenges/featured-articles.md)
 
 ## Module 3: Technical formulas <a id="module-3"></a>
 
