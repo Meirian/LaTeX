@@ -42,7 +42,8 @@
 * [Outline](module-4/outline/README.md)
   * [Slides](module-4/outline/slides.md)
 * [Video](module-4/video.md)
-* [Challenges](module-4/challenges.md)
+* [Challenges](module-4/challenges/README.md)
+  * [Featured articles](module-4/challenges/featured.md)
 
 ## Resources
 
