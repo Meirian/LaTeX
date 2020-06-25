@@ -8,7 +8,7 @@ LaTeX is a mark-up language focused on beautiful typesetting, and handles large,
 
 ##  Learning objectives
 
-This training aims to enable students to:
+This training series aims to enable students to:
 
 *   prepare and structure large, complex documents;
 *   think critically about layout for articles, reports and theses;
