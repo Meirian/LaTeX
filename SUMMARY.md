@@ -39,7 +39,8 @@
 
 ## Module 4: Referencing <a id="module-4"></a>
 
-* [Outline](module-4/outline.md)
+* [Outline](module-4/outline/README.md)
+  * [Slides](module-4/outline/slides.md)
 * [Video](module-4/video.md)
 * [Challenges](module-4/challenges.md)
 

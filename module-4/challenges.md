@@ -6,12 +6,12 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 
 * [ ] Introduce yourselves.
 * [ ] Each team member should answer the question: if you were a tree, what sort of tree would you be? Here are some options if you need inspiration:
-  * birch tree \(risilient\)
-  * fruit tree \(lots to offer\)
-  * oak tree \(strong\)
-  * palm tree \(beachy\)
-  * pine tree \(deep-rooted\)
-  * willow tree \(protective\)
+  * birch tree
+  * fruit tree
+  * oak tree
+  * palm tree
+  * pine tree
+  * willow tree
 * [ ] Select one member of your team to create an Overleaf document and share this with the group by pasting the edit link in the chat.
 
 ## 4.2 Referencing
@@ -25,6 +25,6 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 Bonus challenges: 
 
 * Find and add `article`, `book` and `misc` entry types.
-* Change the referencing style to APA, Harvard, or something else.
+* Change the referencing style to APA using the `apacite` package \(or choose another bibliography style\).
 {% endhint %}
 
