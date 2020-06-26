@@ -25,11 +25,11 @@
 * [Outline](module-2/outline/README.md)
   * [Slides](module-2/outline/slides.md)
 * [Environments](module-2/enviro/README.md)
+  * [Lists](module-2/enviro/lists/README.md)
+    * [Nesting](module-2/enviro/lists/nesting.md)
   * [Tables](module-2/enviro/tables/README.md)
     * [Table vs tabular](module-2/enviro/tables/table-tabular.md)
     * [The easier way](module-2/enviro/tables/easy-tables.md)
-  * [Lists](module-2/enviro/lists/README.md)
-    * [Nesting](module-2/enviro/lists/nesting.md)
 * [Challenges](module-2/challenges/README.md)
   * [Featured articles](module-2/challenges/featured-articles.md)
 
