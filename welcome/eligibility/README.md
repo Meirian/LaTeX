@@ -6,10 +6,10 @@
 
 #### Our trainings are accessible and encourage participation. We want you to come in curious and willing to meet other researchers!
 
-* Be prepared: be ready and able to be involve yourself in learning.
+* Be prepared: be ready and able to involve yourself in learning.
 * Engage: actively participate in the community and course materials.
 * Think critically: analyse materials presented to form reasonable judgements.\*
-* Respect others: listen to and be considerate of others; practice gratitude.
+* Respect others: listen to and be considerate of others.
 
 {% hint style="danger" %}
 \*Do not trust everything you see online.  
