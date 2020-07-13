@@ -37,6 +37,7 @@
 
 * [Outline](module-3/outline.md)
 * [Video](module-3/video.md)
+* [Challenges](module-3/challenges.md)
 
 ## Module 4: Referencing <a id="module-4"></a>
 
