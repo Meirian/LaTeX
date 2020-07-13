@@ -50,7 +50,7 @@ In particular, you may find the following website useful:
 
 {% tab title="Solution" %}
 ```
-\begin{tabular}{|m{3cm}|m{3cm}|m{3cm}|}
+\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|}
     \hline
     Share a file on Overleaf & Create a table & Attend a LaTeX workshop \\
     \hline
