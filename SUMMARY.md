@@ -17,6 +17,7 @@
 * [Outline](module-1/outline.md)
 * [Accessing LaTeX](module-1/access/README.md)
   * [Overleaf](module-1/access/overleaf.md)
+  * [Templates](module-1/access/templates.md)
 * [Challenges](module-1/challenges/README.md)
   * [Featured articles](module-1/challenges/featured.md)
 
@@ -37,7 +38,8 @@
 
 * [Outline](module-3/outline.md)
 * [Video](module-3/video.md)
-* [Challenges](module-3/challenges.md)
+* [Challenges](module-3/challenges/README.md)
+  * [Extension](module-3/challenges/extension.md)
 
 ## Module 4: Referencing <a id="module-4"></a>
 
