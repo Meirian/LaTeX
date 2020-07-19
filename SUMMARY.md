@@ -32,7 +32,7 @@
     * [Table vs tabular](module-2/enviro/tables/table-tabular.md)
     * [The easier way](module-2/enviro/tables/easy-tables.md)
 * [Challenges](module-2/challenges/README.md)
-  * [Featured articles](module-2/challenges/featured-articles.md)
+  * [Featured articles](module-2/challenges/featured.md)
 
 ## Module 3: Technical formulas <a id="module-3"></a>
 
