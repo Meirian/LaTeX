@@ -45,6 +45,7 @@
 
 * [Outline](module-4/outline/README.md)
   * [Slides](module-4/outline/slides.md)
+* [Zotero and Better BibTeX](module-4/zotero-and-better-bibtex.md)
 * [Video](module-4/video.md)
 * [Challenges](module-4/challenges/README.md)
   * [Featured articles](module-4/challenges/featured.md)
@@ -54,6 +55,7 @@
 * [Downloads](resources/downloads/README.md)
   * [Cheat sheets](resources/downloads/cheat.md)
   * [Slides](resources/downloads/slides.md)
+* [Q&A](resources/qa.md)
 * [Videos](resources/videos.md)
 * [Websites](resources/websites/README.md)
   * [Reading](resources/websites/reading.md)
