@@ -22,5 +22,11 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 * When you return, share a link to your Overleaf document in the group chat.
 * Choose one member of your team to present your Overleaf document \(via screen share\) when you return.
 
+{% hint style="info" %}
 Hint: Don't forget to use the `graphicx` package.
+{% endhint %}
+
+{% hint style="success" %}
+Bonus challenge: Use the `label` to refer to your figure.
+{% endhint %}
 
