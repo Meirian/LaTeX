@@ -20,7 +20,7 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 * Insert an image of your animal using the `figure` environment.
 * Give your image a clever and creative caption!
 * When you return, share a link to your Overleaf document in the group chat.
-* Choose one member of your team to present your Overleaf document \(via screen share\) when you return.
+* Choose one member of your team to present your Overleaf document \(via screen share\).
 
 {% hint style="info" %}
 Hint: Don't forget to use the `graphicx` package.
