@@ -14,11 +14,13 @@
 
 ## Module 1: Getting Started <a id="module-1"></a>
 
-* [Outline](module-1/outline.md)
+* [Outline](module-1/outline/README.md)
+  * [Slides](module-1/outline/slides.md)
 * [Accessing LaTeX](module-1/access/README.md)
   * [Overleaf](module-1/access/overleaf.md)
   * [Templates](module-1/access/templates.md)
-* [Environments](module-1/environments.md)
+* [Environments](module-1/environments/README.md)
+  * [Uploading an image](module-1/environments/uploading-an-image.md)
 * [Challenges](module-1/challenges/README.md)
   * [Featured articles](module-1/challenges/featured.md)
 

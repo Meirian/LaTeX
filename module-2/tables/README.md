@@ -1,6 +1,6 @@
 # Tables
 
-Tables are another type of [environment](../../module-1/environments.md) which is frequently used in LaTeX documents.
+Tables are another type of [environment](../../module-1/environments/) which is frequently used in LaTeX documents.
 
 ```text
 \begin{tabular}{ccc}

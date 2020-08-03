@@ -27,7 +27,7 @@ Prior to the workshop, please read our [Training Welcome Page](https://gitlab.un
 
 The Getting Started with LaTeX slides can be accessed here:
 
-{% file src="../.gitbook/assets/latex\_workshop \(1\).pdf" caption="Getting Started with LaTeX" %}
+{% file src="../../.gitbook/assets/latex\_workshop \(1\).pdf" caption="Getting Started with LaTeX" %}
 
 You can also view the original LaTeX document [here](https://www.overleaf.com/read/gbwdjvqtgyxv).
 

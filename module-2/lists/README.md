@@ -1,6 +1,6 @@
 # Lists
 
-Lists can be created in LaTeX using an `itemize` [environment](../../module-1/environments.md):
+Lists can be created in LaTeX using an `itemize` [environment](../../module-1/environments/):
 
 ```text
 On my burger, I want:
