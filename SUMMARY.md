@@ -18,6 +18,7 @@
 * [Accessing LaTeX](module-1/access/README.md)
   * [Overleaf](module-1/access/overleaf.md)
   * [Templates](module-1/access/templates.md)
+* [Environments](module-1/environments.md)
 * [Challenges](module-1/challenges/README.md)
   * [Featured articles](module-1/challenges/featured.md)
 
@@ -25,12 +26,11 @@
 
 * [Outline](module-2/outline/README.md)
   * [Slides](module-2/outline/slides.md)
-* [Environments](module-2/enviro/README.md)
-  * [Lists](module-2/enviro/lists/README.md)
-    * [Nesting](module-2/enviro/lists/nesting.md)
-  * [Tables](module-2/enviro/tables/README.md)
-    * [Table vs tabular](module-2/enviro/tables/table-tabular.md)
-    * [The easier way](module-2/enviro/tables/easy-tables.md)
+* [Lists](module-2/lists/README.md)
+  * [Nesting](module-2/lists/nesting.md)
+* [Tables](module-2/tables/README.md)
+  * [Table vs tabular](module-2/tables/table-tabular.md)
+  * [The easier way](module-2/tables/easy-tables.md)
 * [Challenges](module-2/challenges/README.md)
   * [Featured articles](module-2/challenges/featured.md)
 
@@ -45,7 +45,7 @@
 
 * [Outline](module-4/outline/README.md)
   * [Slides](module-4/outline/slides.md)
-* [Zotero and Better BibTeX](module-4/zotero-and-better-bibtex.md)
+* [Reference Management](module-4/reference-management.md)
 * [Video](module-4/video.md)
 * [Challenges](module-4/challenges/README.md)
   * [Featured articles](module-4/challenges/featured.md)

@@ -1,9 +1,3 @@
----
-description: >-
-  Please note this resource is currently under maintenance, and materials are
-  not yet complete.
----
-
 # Research Computing Services
 
 **For information and updates from the** _**University of Melbourne**_ **regarding COVID-19, please refer to** [**https://www.unimelb.edu.au/coronavirus**](https://www.unimelb.edu.au/coronavirus)**.**
