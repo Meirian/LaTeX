@@ -23,11 +23,3 @@ Learning outcomes:
 
 Prior to the workshop, please read our [Training Welcome Page](https://gitlab.unimelb.edu.au/rescom-training/latex/welcome). This page contains a training overview, eligibility & requirements, expectations, support, training format and dates & times.
 
-## Workshop content
-
-The Getting Started with LaTeX slides can be accessed here:
-
-{% file src="../../.gitbook/assets/latex\_workshop \(1\).pdf" caption="Getting Started with LaTeX" %}
-
-You can also view the original LaTeX document [here](https://www.overleaf.com/read/gbwdjvqtgyxv).
-
