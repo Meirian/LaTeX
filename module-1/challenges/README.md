@@ -27,6 +27,9 @@ Hint: Don't forget to use the `graphicx` package.
 {% endhint %}
 
 {% hint style="success" %}
-Bonus challenge: Use the `label` to refer to your figure.
+Bonus challenges: 
+
+* Can you change the height and width of your image instead of rescaling it?
+* Use the `label` to refer to your figure.
 {% endhint %}
 
