@@ -47,8 +47,8 @@
 
 * [Outline](module-4/outline/README.md)
   * [Slides](module-4/outline/slides.md)
-* [Reference Management](module-4/reference-management.md)
 * [Video](module-4/video.md)
+* [Reference Management](module-4/reference-management.md)
 * [Challenges](module-4/challenges/README.md)
   * [Featured articles](module-4/challenges/featured.md)
 
