@@ -4,7 +4,7 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 
 ##  3.1 Replicate this
 
-* [ ] Replicate this example using math-mode:
+* [ ] Replicate these examples using math-mode:
 
 $$
 \sin\left(\frac{\pi}{3}\right)=\frac{\sqrt{3}}{2}
