@@ -14,6 +14,14 @@ $$
 Hint: You may find it helpful to refer to our [Cheat Sheet](../../resources/downloads/cheat.md).
 {% endhint %}
 
+{% hint style="success" %}
+Bonus challenge: Typeset the probability density function of the normal distribution.
+
+$$
+{\displaystyle f(x)={\frac {1}{\sigma {\sqrt {2\pi }}}}e^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}}
+$$
+{% endhint %}
+
 ## 3.2 Tricky stuff
 
 * [ ] Copy the probability density function of the normal distribution into LaTeX.
