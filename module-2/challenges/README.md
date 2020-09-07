@@ -77,7 +77,7 @@ Remember that `{ }` indicates a required argument --- what could this be?
 Bonus challenges:
 
 * [ ] Figure out how you can set the width of your table's columns \(you may need to Google this one!\) --- refer to the hints above if you need help.
-* [ ] If you have extra time, expand your table to be 4x4. You can also find inspiration in Google images.
+* [ ] If you have extra time, expand your table to be 4x4. You can also find inspiration online by searching for bingo tables.
 * [ ] Create a 'free space' and shade this cell in a different colour. You will need to use the `xcolor` package: `\usepackage[table]{xcolor}`.
 {% endhint %}
 
