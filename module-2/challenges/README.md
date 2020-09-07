@@ -40,16 +40,26 @@ Bonus challenges:
 ![](../../.gitbook/assets/bingo.png)
 {% endtab %}
 
-{% tab title="Hint" %}
+{% tab title="Hint 1" %}
 {% hint style="info" %}
 Overleaf has a comprehensive guide on tables.   
-In particular, you may find the following website useful:   
-[https://www.overleaf.com/learn/latex/tables\#Tables\_with\_fixed\_length](https://www.overleaf.com/learn/latex/tables#Tables_with_fixed_length)
+In particular, you may find the following useful:   
+[https://www.overleaf.com/learn/latex/tables\#Reference\_guide](https://www.overleaf.com/learn/latex/tables#Reference_guide)
+{% endhint %}
+{% endtab %}
+
+{% tab title="Hint 2" %}
+{% hint style="info" %}
+So you want to **specify the width** of your table's **columns**?  
+We've seen left`l`, centre`c` and right`r` aligned columns. Another type of column alignment is **paragraph**, which will allow line wrapping. This is achieved using `p{ }`.   
+Remember that `{ }` indicates a required argument --- what could this be?
 {% endhint %}
 {% endtab %}
 
 {% tab title="Solution" %}
-```
+```text
+% p{1in} can be used to specify a column of width 1 inch
+
 \begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|}
     \hline
     Share a file on Overleaf & Create a table & Attend a LaTeX workshop \\
@@ -66,7 +76,7 @@ In particular, you may find the following website useful:
 {% hint style="success" %}
 Bonus challenges:
 
-* [ ] Figure out how you can set the width of your table's columns \(you may need to Google this one!\) Refer to the Hint above if you need help.
+* [ ] Figure out how you can set the width of your table's columns \(you may need to Google this one!\) --- refer to the hints above if you need help.
 * [ ] If you have extra time, expand your table to be 4x4. You can also find inspiration in Google images.
 * [ ] Create a 'free space' and shade this cell in a different colour. You will need to use the `xcolor` package: `\usepackage[table]{xcolor}`.
 {% endhint %}
