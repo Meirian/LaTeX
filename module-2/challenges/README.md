@@ -59,6 +59,8 @@ Remember that `{ }` indicates a required argument --- what could this be?
 {% tab title="Solution" %}
 ```text
 % p{1in} can be used to specify a column of width 1 inch
+% The following code was used to produce the Example bingo table
+% This table has columns of width 3cm.
 
 \begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|}
     \hline
