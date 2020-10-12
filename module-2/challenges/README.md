@@ -20,7 +20,7 @@ Bonus challenge: If you finish early, start reading through the documentation on
 ##  2.2 Lists
 
 * [ ] Create a list of things which can happen during a video call using the `itemize` environment.
-* [ ] Create a shopping list of items you would like to buy to get you through self-isolation. Use the `enumerate` environment to order the items on your list by priority.
+* [ ] Create a shopping list of items you would like to buy to make a dish. Use the `enumerate` environment to order the items on your list.
 
 {% hint style="success" %}
 Bonus challenges: 
@@ -31,7 +31,7 @@ Bonus challenges:
 
 ## 2.3 Bingo
 
-* [ ] In your document, create a 3x3 bingo table for video conference calls.
+* [ ] In your document, create a 3x3 bingo table for video calls.
 * [ ] When you return, share a \(read only\) link to your Overleaf document in the group chat.
 * [ ] Choose one member of your team to present your Overleaf document \(via screen share\) when you return.
 
