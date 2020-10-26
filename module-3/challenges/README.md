@@ -22,7 +22,7 @@ $$
 $$
 {% endhint %}
 
-## 3.2 Tricky stuff
+## 3.2 Your turn
 
 * [ ] Copy the probability density function of the normal distribution into LaTeX.
 
