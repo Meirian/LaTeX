@@ -30,7 +30,7 @@ $$
 {\displaystyle f(x)={\frac {1}{\sigma {\sqrt {2\pi }}}}e^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}}
 $$
 
-* [ ] Typeset the most difficult mathematics problem you can think of or find!
+* [ ] Typeset the most difficult problem or equation you can think of or find!
 
 {% hint style="success" %}
 Bonus challenges: 
