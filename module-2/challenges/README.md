@@ -10,7 +10,7 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 * [ ] Set your team name as the `\author{ }`.
 
 {% hint style="info" %}
-Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/downloads/cheat.md).
+Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
 {% endhint %}
 
 {% hint style="success" %}

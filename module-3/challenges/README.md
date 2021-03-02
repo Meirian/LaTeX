@@ -11,7 +11,7 @@ $$
 $$
 
 {% hint style="info" %}
-Hint: You may find it helpful to refer to our [Cheat Sheet](../../resources/downloads/cheat.md).
+Hint: You may find it helpful to refer to our [Cheat Sheet](../../resources/cheat.md).
 {% endhint %}
 
 {% hint style="success" %}

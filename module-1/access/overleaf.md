@@ -8,3 +8,7 @@ I recommend viewing this guide to familiarise yourself with the layout of Overle
 
 {% file src="../../.gitbook/assets/overleaf\_layout\_cheat\_sheet \(1\).pdf" caption="Overleaf Layout Diagram" %}
 
+Want to work collaboratively? You can share your LaTeX projects on Overleaf.
+
+{% embed url="https://www.youtube.com/watch?v=VnBf68Rho2w" caption="How to Share your LaTeX Projects on Overleaf. \(2021\). Source: https://youtu.be/VnBf68Rho2w." %}
+

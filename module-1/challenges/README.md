@@ -15,7 +15,7 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 * [ ] Choose your favourite animal and give your `article` an appropriate `\title{ }`.
 
 {% hint style="info" %}
-Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/downloads/cheat.md).
+Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
 {% endhint %}
 
 {% hint style="success" %}
