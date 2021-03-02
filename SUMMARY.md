@@ -14,25 +14,16 @@
 
 ## Module 1: Getting Started <a id="module-1"></a>
 
-* [Outline](module-1/outline/README.md)
-  * [Slides](module-1/outline/slides.md)
+* [Outline](module-1/outline.md)
 * [Accessing LaTeX](module-1/access/README.md)
   * [Overleaf](module-1/access/overleaf.md)
   * [Templates](module-1/access/templates.md)
-* [Environments](module-1/environments/README.md)
-  * [Uploading an image](module-1/environments/uploading-an-image.md)
 * [Challenges](module-1/challenges/README.md)
   * [Featured articles](module-1/challenges/featured.md)
 
 ## Module 2: Lists and Tables <a id="module-2"></a>
 
-* [Outline](module-2/outline/README.md)
-  * [Slides](module-2/outline/slides.md)
-* [Lists](module-2/lists/README.md)
-  * [Nesting](module-2/lists/nesting.md)
-* [Tables](module-2/tables/README.md)
-  * [Table vs tabular](module-2/tables/table-tabular.md)
-  * [The easier way](module-2/tables/easy-tables.md)
+* [Outline](module-2/outline.md)
 * [Challenges](module-2/challenges/README.md)
   * [Featured articles](module-2/challenges/featured.md)
 
@@ -45,8 +36,7 @@
 
 ## Module 4: Referencing <a id="module-4"></a>
 
-* [Outline](module-4/outline/README.md)
-  * [Slides](module-4/outline/slides.md)
+* [Outline](module-4/outline.md)
 * [Video](module-4/video.md)
 * [Reference Management](module-4/reference-management.md)
 * [Challenges](module-4/challenges/README.md)

@@ -14,7 +14,7 @@ Hint: If you're having trouble navigating Overleaf, please refer to our visual c
 {% endhint %}
 
 {% hint style="success" %}
-Bonus challenge: If you finish early, start reading through the documentation on [Environments](../../module-1/environments/), [Lists](../lists/) and [Tables](../tables/).
+Bonus challenge: If you finish early, start reading through the documentation on [Environments](), [Lists]() and [Tables]().
 {% endhint %}
 
 ##  2.2 Lists

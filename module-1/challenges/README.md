@@ -19,7 +19,7 @@ Hint: If you're having trouble navigating Overleaf, please refer to our visual c
 {% endhint %}
 
 {% hint style="success" %}
-Bonus challenge: If you finish early, start reading through the documentation on [Environments](../environments/).
+Bonus challenge: If you finish early, start reading through the documentation on [Environments]().
 {% endhint %}
 
 ##  1.3 Figures
