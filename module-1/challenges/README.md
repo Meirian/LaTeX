@@ -15,6 +15,8 @@ Want a reminder on how to share your LaTeX project on Overleaf? Watch our short 
 {% endhint %}
 
 {% hint style="success" %}
+Add a short paragraph \(a couple of sentences\) explaining why you chose your animal.
+
 When you're ready, share a read-only link to your group's document on Slack: [http://go.unimelb.edu.au/6mhi](http://go.unimelb.edu.au/6mhi). Please include your team name in the message on Slack, and tag your team mates using`@teammate.`
 {% endhint %}
 
@@ -22,7 +24,7 @@ When you're ready, share a read-only link to your group's document on Slack: [ht
 
 * [ ] Insert an image of your animal using the `figure` environment.
 * [ ] Give your image a clever and creative caption!
-* [ ] When you return, share a link to your Overleaf document in the group chat.
+* [ ] When you return, share a read-only link to your Overleaf document \(if you haven't already\).
 * [ ] Choose one member of your team to present your Overleaf document \(via screen share\).
 
 {% hint style="info" %}
