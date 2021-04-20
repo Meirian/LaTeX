@@ -2,13 +2,7 @@
 
 During the workshop, group activities will be run using Breakout rooms in Zoom. These are referred to as challenges.
 
-## 1.1 Who are you?
-
-* [ ] Introduce yourselves.
-* [ ] Find one thing you all have in common.
-* [ ] Come up with a team name!
-
-##  1.2 Getting started
+## 1.1 Getting started
 
 * [ ] Select one member of your team to create an Overleaf document and share this with the group by pasting the edit link in the chat.
 * [ ] Set your team name as the `\author{ }`.
@@ -16,13 +10,15 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 
 {% hint style="info" %}
 Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
+
+Want a reminder on how to share your LaTeX project on Overleaf? Watch our short video to learn how: [https://youtu.be/VnBf68Rho2w](https://youtu.be/VnBf68Rho2w).
 {% endhint %}
 
 {% hint style="success" %}
-Bonus challenge: If you finish early, start reading through the documentation on [Environments]().
+When you're ready, share a read-only link to your group's document on Slack: [http://go.unimelb.edu.au/6mhi](http://go.unimelb.edu.au/6mhi). Please include your team name in the message on Slack, and tag your team mates using`@teammate.`
 {% endhint %}
 
-##  1.3 Figures
+##  1.2 Figures
 
 * [ ] Insert an image of your animal using the `figure` environment.
 * [ ] Give your image a clever and creative caption!
