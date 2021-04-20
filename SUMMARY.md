@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Research Computing Services](README.md)
+* [LaTeX Digital Skills Training](README.md)
 
 ## Welcome
 
