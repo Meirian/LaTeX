@@ -32,3 +32,5 @@ For more information, visit this link: [https://www.overleaf.com/edu/unimelb](ht
 
 Students participating this course are encouraged \(but not required\) to supplement their learning of Referencing with the materials and courses offered by the University's Library Services:
 
+{% embed url="https://unimelb.libguides.com/latexbibtex" %}
+

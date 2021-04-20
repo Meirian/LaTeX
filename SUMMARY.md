@@ -6,8 +6,7 @@
 
 * [Training overview](welcome/overview/README.md)
   * [About the trainer](welcome/overview/trainer.md)
-* [Training format](welcome/format/README.md)
-  * [Dates and times](welcome/format/dates.md)
+  * [Dates and times](welcome/overview/dates.md)
 * [Eligibility and requirements](welcome/eligibility/README.md)
   * [Expectations](welcome/eligibility/assessment-1.md)
 * [Support](welcome/support.md)
