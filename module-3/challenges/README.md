@@ -37,6 +37,6 @@ Bonus challenges:
 
 * [ ] Can you solve someone else's problem?
 * [ ] Check out the [extension material](extension.md).
-* [ ] Did you know you can run R code in LaTeX? [Read more here](../../resources/qa.md), and let me know if you'd be interested in a workshop on this.
+* [ ] Did you know you can run R code in LaTeX? [Read more here](../../resources/faq.md), and let me know if you'd be interested in a workshop on this.
 {% endhint %}
 

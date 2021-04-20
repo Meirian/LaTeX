@@ -1,4 +1,4 @@
-# Q&A
+# FAQ
 
 ## How can I convert between file types?
 

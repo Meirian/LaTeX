@@ -45,7 +45,7 @@
 ## Resources
 
 * [Cheat sheets](resources/cheat.md)
-* [Q&A](resources/qa.md)
+* [FAQ](resources/faq.md)
 * [Videos](resources/videos.md)
 * [Websites](resources/websites/README.md)
   * [Reading](resources/websites/reading.md)
