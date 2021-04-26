@@ -2,15 +2,17 @@
 
 During the workshop, group activities will be run using Breakout rooms in Zoom. These are referred to as challenges.
 
-##  2.1 Getting started
+##  2.1 Sharing is caring
 
 * [ ] Introduce yourselves.
-* [ ] Come up with a team name!
 * [ ] Select one member of your team to create an [Overleaf](www.overleaf.com) document and share this with the group by pasting the edit link in the chat.
-* [ ] Set your team name as the `\author{ }`.
+* [ ] Come up with a team name and set this as the `\author{ }`.
+* [ ] What’s your favourite dish? Set your chosen dish as the `\title{ }`.
 
 {% hint style="info" %}
 Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
+
+Want a reminder on how to share your LaTeX project on Overleaf? Watch our short video to learn how: [https://youtu.be/VnBf68Rho2w](https://youtu.be/VnBf68Rho2w).
 {% endhint %}
 
 ##  2.2 Lists
