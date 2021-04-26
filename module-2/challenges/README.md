@@ -13,10 +13,6 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
 {% endhint %}
 
-{% hint style="success" %}
-Bonus challenge: If you finish early, start reading through the documentation on [Environments](), [Lists]() and [Tables]().
-{% endhint %}
-
 ##  2.2 Lists
 
 * [ ] Create a list of things which can happen during a video call using the `itemize` environment.
@@ -31,7 +27,7 @@ Bonus challenges:
 
 ## 2.3 Bingo
 
-* [ ] In your document, create a 3x3 bingo table for video calls.
+* [ ] In your document, create a 3x3 bingo table for things that can happen on video calls.
 * [ ] When you return, share a \(read only\) link to your Overleaf document in the group chat.
 * [ ] Choose one member of your team to present your Overleaf document \(via screen share\) when you return.
 
