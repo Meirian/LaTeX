@@ -28,7 +28,8 @@
 
 ## Module 3: Technical formulas <a id="module-3"></a>
 
-* [Outline](module-3/outline.md)
+* [Outline](module-3/outline/README.md)
+  * [Slides](module-3/outline/slides.md)
 * [Video](module-3/video.md)
 * [Challenges](module-3/challenges/README.md)
   * [Extension](module-3/challenges/extension.md)
