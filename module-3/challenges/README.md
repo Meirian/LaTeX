@@ -32,6 +32,10 @@ $$
 
 * [ ] Typeset the most difficult problem or equation you can think of or find!
 
+{% hint style="info" %}
+Hint: Use [DeTeXify](http://detexify.kirelabs.org/classify.html) or [MathPix](https://mathpix.com) to get the exact symbol or formula you want.
+{% endhint %}
+
 {% hint style="success" %}
 Bonus challenges: 
 
