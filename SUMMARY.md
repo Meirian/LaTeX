@@ -13,7 +13,8 @@
 
 ## Module 1: Getting Started <a id="module-1"></a>
 
-* [Outline](module-1/outline.md)
+* [Outline](module-1/outline/README.md)
+  * [Slides](module-1/outline/slides.md)
 * [Accessing LaTeX](module-1/access/README.md)
   * [Overleaf](module-1/access/overleaf.md)
   * [Templates](module-1/access/templates.md)
