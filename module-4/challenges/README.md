@@ -4,15 +4,18 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 
 ##  4.1 Introductions
 
-* [ ] Introduce yourselves.
-* [ ] Each team member should answer the question: if you were a tree, what sort of tree would you be? Here are some options if you need inspiration:
-  * birch tree
-  * fruit tree
-  * oak tree
-  * palm tree
-  * pine tree
-  * willow tree
+* [ ] Introduce yourselves and answer the question: if you were a tree, what sort of tree would you be?  Here are some options if you need inspiration: birch tree, fruit tree, oak tree, palm tree, pine tree, willow tree.
 * [ ] Select one member of your team to create an Overleaf document and share this with the group by pasting the edit link in the chat.
+
+{% hint style="info" %}
+Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
+
+Don't know how to share your LaTeX project on Overleaf? Watch our short video to learn how: [https://youtu.be/VnBf68Rho2w](https://youtu.be/VnBf68Rho2w).
+{% endhint %}
+
+{% hint style="success" %}
+Bonus challenge: Add a sentence to your shared document explaining why you chose your tree.
+{% endhint %}
 
 ## 4.2 Referencing
 
