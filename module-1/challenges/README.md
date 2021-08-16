@@ -4,9 +4,9 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 
 ## 1.1 Getting started
 
-* [ ] Select one member of your team to create an Overleaf document and share this with the group by pasting the edit link in the chat.
-* [ ] Set your team name as the `\author{ }`.
+* [ ] Create a project on Overleaf.
 * [ ] Choose your favourite animal and give your `article` an appropriate `\title{ }`.
+* [ ] When you're ready, share the link to your project in the chat.
 
 {% hint style="info" %}
 Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
@@ -17,7 +17,7 @@ Want a reminder on how to share your LaTeX project on Overleaf? Watch our short 
 {% hint style="success" %}
 Add a short paragraph \(a couple of sentences\) explaining why you chose your animal.
 
-When you're ready, share a read-only link to your group's document on Slack: [http://go.unimelb.edu.au/6mhi](http://go.unimelb.edu.au/6mhi). Please include your team name in the message on Slack, and tag your team mates using`@teammate.`
+If you'd like to have your project featured on this website, please share a read-only link to your project on Slack: [http://go.unimelb.edu.au/6mhi](http://go.unimelb.edu.au/6mhi). If you're working as a team, please include your team name in the message on Slack, and tag your team mates using`@teammate.`
 {% endhint %}
 
 ##  1.2 Figures
