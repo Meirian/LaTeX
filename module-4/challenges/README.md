@@ -5,7 +5,7 @@ During the workshop, group activities will be run using Breakout rooms in Zoom. 
 ##  4.1 Introductions
 
 * [ ] Introduce yourselves and answer the question: if you were a tree, what sort of tree would you be?  Here are some options if you need inspiration: birch tree, fruit tree, oak tree, palm tree, pine tree, willow tree.
-* [ ] Select one member of your team to create an Overleaf document and share this with the group by pasting the edit link in the chat.
+* [ ] Create an Overleaf document and share this with the group by pasting the edit link in the chat.
 
 {% hint style="info" %}
 Hint: If you're having trouble navigating Overleaf, please refer to our visual cheat sheet: [Overleaf layout diagram](../../resources/cheat.md).
@@ -21,13 +21,14 @@ Bonus challenge: Add a sentence to your shared document explaining why you chose
 
 * [ ] Research and find one article about your chosen tree on Google Scholar.
 * [ ] Add a bibliography item of the article you found to a bibtex file \(`.bib`\) in your shared Overleaf document.
-* [ ] One member of your team should add the references to your `main.tex` file using the `plain` bibliography style.
-* [ ] Each member of your team should add one sentence explaining which tree they selected, and include an in-text citation using the `\cite{ }` command.
+* [ ] Add the list of references into your `main.tex` file using the `plain` bibliography style.
+* [ ] Each person should add a sentence explaining which tree they selected, and include an in-text citation using the `\cite{ }` command.
 
 {% hint style="success" %}
 Bonus challenges: 
 
-* Find and add `article`, `book` and `misc` entry types.
-* Change the referencing style to APA using the `apacite` package \(or choose another bibliography style\).
+* [ ] Find and add `article`, `book` and `misc` entry types.
+* [ ] Change the referencing style to APA using the `apacite` package \(or choose another bibliography style\).
+* [ ] Consider other referencing styles and figure out how to implement another one in LaTeX --- use an online search to help with this.
 {% endhint %}
 
